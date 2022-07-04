@@ -3,3 +3,4 @@
 # Employee part time wage
 # Employee full time wage
 # Employee monthly salary
+# Employee wage for companies
